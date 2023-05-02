@@ -14,11 +14,6 @@ int main(void)
 
 		putchar(n + 48);
 
-/**
- * Description: see the ASCII Table as (48) Decimal equals 0 character
- * we are required to print characters without the use of char or printf
- */
-
 	putchar('\n');
 
 	return (0);
